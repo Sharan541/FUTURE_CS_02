@@ -1,4 +1,5 @@
 ==================================================
+
 Firewalls are crucial for network security. Their primary use is to monitor and control incoming and outgoing network traffic based on predetermined security rules. Here’s a more detailed breakdown of their functions:
 
 --------------------------------------------------
